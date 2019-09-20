@@ -242,7 +242,7 @@ h6 {
 
 .who__text {
 	text-align: center;
-
+	font-weight: 300;
 	color: #6b7c93;
 	margin: 0 15px 50px;
 
@@ -300,7 +300,8 @@ h6 {
 }
 
 .works__img {
-	width: 48%;
+	height: 146px;
+	min-width: 182px;
 }
 
 .works__img_1 {
@@ -362,7 +363,8 @@ h6 {
 }
 
 .pricing__img {
-	width: 18%;
+	min-height: 167px;
+	width: 216px;
 }
 
 .container--pricing:hover .pricing__img {
